@@ -1,0 +1,8 @@
+name: venv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - pandas
+  - kaggle
